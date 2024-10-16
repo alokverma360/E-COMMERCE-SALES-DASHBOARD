@@ -26,7 +26,7 @@ The dashboard integrates multiple data sources, joins tables, and employs calcul
 4. **Clustered Bar Chart:** To compare multiple categories side by side.
 5. **Scatter Plot:** To analyze relationships between quantity sold, profit, and amount.
 6. **Slicers:** To filter data by specific parameters like product category, payment mode, etc.
-## Screenshots
+## Dashboard Screenshot
 
 ![Screenshot 2024-10-16 230721](https://github.com/user-attachments/assets/a4f29ca1-1d2a-4235-8783-d2ec0dc8b164)
 
