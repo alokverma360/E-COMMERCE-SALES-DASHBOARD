@@ -19,6 +19,7 @@ The dashboard integrates multiple data sources, joins tables, and employs calcul
 
 ## Visualizations Used
 
+
 1. **Bar Chart:** To compare sales amounts across categories and sub-categories.
 2. **Pie/Donut Charts:** To show percentage breakdown of payment methods and product categories.
 3. **Line Chart:** To track sales performance and trends over time.
@@ -27,7 +28,7 @@ The dashboard integrates multiple data sources, joins tables, and employs calcul
 6. **Slicers:** To filter data by specific parameters like product category, payment mode, etc.
 ## Screenshots
 
-![Dashboard Screenshot](https://1drv.ms/i/s!Aup7mbFTqI8BkCHHeiNJAJ-ItRbt?e=xmxfwf)
+![Screenshot 2024-10-16 230721](https://github.com/user-attachments/assets/a4f29ca1-1d2a-4235-8783-d2ec0dc8b164)
 
 
 ## Project Objectives
